@@ -2,19 +2,19 @@
 
 ### Full Stack Developer • Software Engineering • Infrastructure • IoT • AI & Automation
 
-I build and maintain technology solutions across **software, databases, infrastructure, hardware and IoT** — from business applications and SaaS platforms to server environments, integrations and automation.
+Technology professional with experience across **software development, databases, infrastructure, servers, hardware, IoT, integrations and automation**.
 
-A significant part of my professional work is maintained in **private repositories** due to business and confidentiality requirements.
+This profile is being organized as a **public technical portfolio**. Only public repositories and publicly available work are presented here. Professional and private repositories are not listed or described.
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Technical Stack
 
 **Software Development**  
 `C#` `.NET` `VB.NET` `React` `TypeScript` `JavaScript` `Vite` `Tailwind CSS`
 
 **APIs, Data & Cloud**  
-`REST APIs` `SQL Server` `PostgreSQL` `Supabase` `SQL` `TanStack Query`
+`REST APIs` `SQL Server` `PostgreSQL` `Supabase` `SQL`
 
 **Infrastructure & Servers**  
 `Windows Server 2019+` `IIS` `Linux` `Ubuntu Server` `CentOS` `Slackware` `Docker` `VMware` `WSL`
@@ -22,68 +22,63 @@ A significant part of my professional work is maintained in **private repositori
 **Hardware & IoT**  
 `Raspberry Pi` `ESP32` `IoT` `Hardware Integration`
 
-**Engineering & Quality**  
-`Git` `GitHub` `Vitest` `Testing Library` `Playwright`
+**Development Tools**  
+`Git` `GitHub`
 
 ---
 
-## 🚀 Selected Experience & Projects
+## 📂 Public Portfolio
 
-### 📊 CRM, Sales & Business Platforms
-Development of CRM, sales, financial and business-management solutions involving **dashboards, workflows, reporting, document generation, data processing and system integrations**.
+My public portfolio is currently being expanded with independent demonstrations, reusable components, technical experiments and selected implementations created specifically for public presentation.
 
-**Technologies:** React • TypeScript • Supabase • SQL • APIs • Data Visualization
+Current public repositories can be found in the **Repositories** section of this profile.
 
-### 🤖 AI, Communication & Automation
-Development of applications combining **artificial intelligence, communication workflows, API integrations and business-process automation**.
-
-**Focus:** AI integrations • Workflow automation • APIs • Business systems
-
-### 🌐 SaaS & Web Applications
-Development of modern web platforms for areas such as **management, mentoring, events, education and communication**, with responsive interfaces and cloud-based architectures.
-
-**Technologies:** React • TypeScript • Vite • Supabase • TanStack • Tailwind CSS
-
-### 🖥️ Infrastructure & Systems
-Experience configuring, deploying and maintaining applications and services across **Microsoft and Linux environments**.
-
-**Technologies:** .NET • SQL Server • Windows Server • IIS • Ubuntu • CentOS • Slackware • Docker • VMware
-
-### 🔌 IoT & Hardware
-Integration of software with physical devices and embedded platforms, including **hardware configuration, troubleshooting and IoT solutions**.
-
-**Technologies:** Raspberry Pi • ESP32 • Hardware • IoT
-
-> 🔒 Most production and client projects are private. The descriptions above highlight technical scope without exposing proprietary code or confidential business information.
+> New public projects will be added progressively to demonstrate specific technologies, functions and features without exposing proprietary or confidential code.
 
 ---
 
-## 🧩 What I Work With
+## 🎯 Areas of Experience
 
-- Full Stack and business application development
-- REST APIs and third-party integrations
-- SaaS and cloud-based applications
-- CRM, sales and management systems
+- Full Stack development
+- C# / .NET application development
+- Modern web applications
+- REST APIs and system integrations
 - SQL databases and data integration
 - Windows and Linux server administration
-- Application deployment and web hosting
-- AI integrations and workflow automation
-- IoT, embedded devices and hardware integration
-- Testing, troubleshooting and technical problem solving
+- IIS and application deployment
+- Virtualization and infrastructure
+- AI integrations and process automation
+- Raspberry Pi, ESP32 and IoT
+- Hardware configuration and troubleshooting
 
 ---
 
-## 🎯 Engineering Approach
+## 🧭 Portfolio Roadmap
 
-I enjoy working across the technology stack and understanding how the pieces connect — **from hardware and operating systems to databases, APIs and user-facing applications**.
+This profile will progressively include public demonstrations focused on:
 
-My focus is on building practical solutions, solving technical problems and continuously improving systems through software engineering, infrastructure and automation.
+- **.NET & APIs** — backend services, integrations and business logic
+- **Modern Web** — React, TypeScript and responsive interfaces
+- **Databases** — SQL Server, PostgreSQL and data-driven applications
+- **Infrastructure** — deployment, containers and server environments
+- **IoT** — Raspberry Pi, ESP32 and hardware/software integration
+- **AI & Automation** — practical integrations and workflow examples
+
+Each public project will contain its own documentation, technology stack and implementation details.
 
 ---
 
-## 📚 Currently Exploring
+## 💡 Engineering Approach
 
-Modern software architecture, AI-assisted applications, automation, cloud services and new approaches to connecting software with real-world business processes.
+I enjoy understanding technology across different layers — **from hardware and operating systems to databases, APIs and user-facing applications**.
+
+My focus is on practical problem solving, system integration, software engineering, infrastructure and automation.
+
+---
+
+## 📚 Continuous Learning
+
+Continuously exploring modern software architecture, AI-assisted applications, automation, cloud services, infrastructure and IoT.
 
 ---
 
