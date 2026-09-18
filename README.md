@@ -1,12 +1,23 @@
 # Hi, I'm Edmi Carvalho 👋
 
-### Full Stack Developer • Software Engineering • Infrastructure • IoT & Electronics • AI & Automation
+### Full Stack Developer • Systems & Infrastructure • IoT & Electronics • AI & Automation
 
-Technology professional with experience across **software development, databases, IT infrastructure, servers, hardware, electronics, IoT, system integration and automation**.
+Technology professional with a multidisciplinary background spanning **software development, information systems, databases, infrastructure, electronics, IoT, integrations and automation**.
 
-I also have a technical background in **Microelectronics**, which complements my software experience and allows me to work across different layers of technology — from hardware and embedded devices to servers, databases, APIs and web applications.
+My background in **Information Systems and Microelectronics** allows me to work across different technology layers — from hardware and embedded devices to servers, databases, APIs, applications and automated workflows.
 
 This profile is being developed as a **public technical portfolio**. Only public repositories and publicly available work are presented here. Professional and private repositories are not listed or described.
+
+---
+
+## 🎓 Education & Technical Background
+
+- **Information Systems**
+- **Microelectronics**
+
+This combination connects software development with infrastructure, electronics and hardware, providing a broader perspective for designing, integrating and troubleshooting technology solutions.
+
+**Hardware → Embedded & IoT → Infrastructure → Databases → APIs → Applications → Automation**
 
 ---
 
@@ -16,9 +27,9 @@ This profile is being developed as a **public technical portfolio**. Only public
 
 `C#` `.NET` `VB.NET` `React` `TypeScript` `JavaScript` `Vite` `Tailwind CSS`
 
-### 🔗 APIs & Integrations
+### 🔗 APIs & System Integration
 
-`REST APIs` `System Integration` `Web Services` `Automation`
+`REST APIs` `Webhooks` `Web Services` `System Integration`
 
 ### 🗄️ Databases
 
@@ -34,6 +45,10 @@ This profile is being developed as a **public technical portfolio**. Only public
 
 `Microelectronics` `Raspberry Pi` `ESP32` `IoT` `Hardware Integration`
 
+### 🤖 AI, Automation & Workflows
+
+`n8n` `Make` `AI Integrations` `Workflow Automation` `API Integration` `Webhooks`
+
 ### 🛠️ Development Tools
 
 `Git` `GitHub`
@@ -42,23 +57,24 @@ This profile is being developed as a **public technical portfolio**. Only public
 
 ## 👨‍💻 Technical Profile
 
-My experience combines software and infrastructure with a hands-on technical background.
+My experience combines software development with infrastructure and a hands-on technical background.
 
 I work with:
 
 - Full Stack application development
 - C# / .NET and Microsoft technologies
 - Modern web applications with React and TypeScript
-- REST APIs and system integrations
+- REST APIs, webhooks and system integrations
 - SQL Server, PostgreSQL and MySQL
 - Windows and Linux server environments
 - IIS, deployment and virtualization
 - Hardware configuration and troubleshooting
 - Microelectronics and electronic systems
 - Raspberry Pi, ESP32 and IoT
+- n8n, Make and workflow automation
 - AI integrations and process automation
 
-This combination allows me to understand systems beyond the application layer, including the infrastructure and hardware on which software operates.
+This combination allows me to understand systems beyond the application layer, including the infrastructure and hardware on which software operates and the integrations that connect business processes.
 
 ---
 
@@ -90,19 +106,17 @@ Windows Server, Linux, IIS, Docker, virtualization and deployment.
 ESP32, Raspberry Pi, sensors, electronics and hardware/software integration.
 
 **🤖 AI & Automation**  
-AI integrations, APIs and workflow automation.
+n8n, Make, AI integrations, APIs, webhooks and workflow automation.
 
 ---
 
 ## 💡 Engineering Approach
 
-I enjoy understanding how technology works across different layers:
+I enjoy understanding how technology works across different layers and how those layers connect to solve real-world problems.
 
-**Hardware → Operating Systems → Infrastructure → Databases → APIs → Applications**
+My background in Information Systems and Microelectronics, combined with experience in software development and infrastructure, gives me a broad perspective when designing, integrating and troubleshooting systems.
 
-My technical background in electronics, combined with software development and infrastructure experience, gives me a broad perspective when designing, integrating and troubleshooting systems.
-
-I focus on practical problem solving, reliable solutions and continuous learning.
+I focus on practical problem solving, reliable solutions, system integration and continuous learning.
 
 ---
 
