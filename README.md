@@ -1,137 +1,93 @@
 # Hi, I'm Edmi Carvalho 👋
 
-### Full Stack Developer | Software Engineering | Infrastructure | IoT | AI & Automation
+### Full Stack Developer • Software Engineering • Infrastructure • IoT • AI & Automation
 
-I am a software developer and technology professional with experience across **software development, infrastructure, databases, servers, hardware, IoT, system integrations and automation**.
+I build and maintain technology solutions across **software, databases, infrastructure, hardware and IoT** — from business applications and SaaS platforms to server environments, integrations and automation.
 
-My work ranges from developing business applications and SaaS platforms to configuring and maintaining Windows and Linux server environments, databases, web services and embedded/IoT solutions.
-
-A significant part of my professional work is maintained in **private repositories** and includes business systems, CRM solutions, management platforms, integrations, automation and AI-powered applications.
+A significant part of my professional work is maintained in **private repositories** due to business and confidentiality requirements.
 
 ---
 
-## 💻 Software Development
+## 🧰 Technology Stack
 
-**Backend & Microsoft Technologies**
+**Software Development**  
+`C#` `.NET` `VB.NET` `React` `TypeScript` `JavaScript` `Vite` `Tailwind CSS`
 
-- C#
-- .NET
-- VB.NET
-- REST APIs
-- System integrations
+**APIs, Data & Cloud**  
+`REST APIs` `SQL Server` `PostgreSQL` `Supabase` `SQL` `TanStack Query`
 
-**Frontend & Modern Web**
+**Infrastructure & Servers**  
+`Windows Server 2019+` `IIS` `Linux` `Ubuntu Server` `CentOS` `Slackware` `Docker` `VMware` `WSL`
 
-- React
-- TypeScript
-- JavaScript
-- Vite
-- Tailwind CSS
-- TanStack Query / Router
-- Responsive Web Applications
+**Hardware & IoT**  
+`Raspberry Pi` `ESP32` `IoT` `Hardware Integration`
+
+**Engineering & Quality**  
+`Git` `GitHub` `Vitest` `Testing Library` `Playwright`
 
 ---
 
-## 🗄️ Databases & Data
+## 🚀 Selected Experience & Projects
 
-- Microsoft SQL Server
-- SQL
-- PostgreSQL
-- Supabase
-- Database modeling
-- Queries, procedures and data integration
+### 📊 CRM, Sales & Business Platforms
+Development of CRM, sales, financial and business-management solutions involving **dashboards, workflows, reporting, document generation, data processing and system integrations**.
 
----
+**Technologies:** React • TypeScript • Supabase • SQL • APIs • Data Visualization
 
-## 🖥️ Servers & Infrastructure
+### 🤖 AI, Communication & Automation
+Development of applications combining **artificial intelligence, communication workflows, API integrations and business-process automation**.
 
-**Microsoft**
+**Focus:** AI integrations • Workflow automation • APIs • Business systems
 
-- Windows Server 2019+
-- IIS (Internet Information Services)
-- Web application deployment
-- Server configuration and administration
+### 🌐 SaaS & Web Applications
+Development of modern web platforms for areas such as **management, mentoring, events, education and communication**, with responsive interfaces and cloud-based architectures.
 
-**Linux**
+**Technologies:** React • TypeScript • Vite • Supabase • TanStack • Tailwind CSS
 
-- Ubuntu / Ubuntu Server
-- CentOS
-- Slackware
-- Linux server administration
-- Web services and application hosting
+### 🖥️ Infrastructure & Systems
+Experience configuring, deploying and maintaining applications and services across **Microsoft and Linux environments**.
 
-**Infrastructure & Tools**
+**Technologies:** .NET • SQL Server • Windows Server • IIS • Ubuntu • CentOS • Slackware • Docker • VMware
 
-- Docker
-- Git / GitHub
-- Virtualization
-- WSL
-- VMware
-- Networking and troubleshooting
+### 🔌 IoT & Hardware
+Integration of software with physical devices and embedded platforms, including **hardware configuration, troubleshooting and IoT solutions**.
+
+**Technologies:** Raspberry Pi • ESP32 • Hardware • IoT
+
+> 🔒 Most production and client projects are private. The descriptions above highlight technical scope without exposing proprietary code or confidential business information.
 
 ---
 
-## 🔌 Hardware & IoT
+## 🧩 What I Work With
 
-I also enjoy working beyond traditional software development, integrating software with physical devices and infrastructure.
-
-- Raspberry Pi
-- ESP32
-- Hardware configuration and troubleshooting
-- Embedded and IoT projects
-- Device and software integration
-
----
-
-## 🤖 AI, Automation & Integrations
-
-I explore and develop solutions involving:
-
-- Artificial Intelligence integrations
-- Business process automation
-- API integrations
-- Workflow automation
-- AI-powered applications
-- Communication and management systems
+- Full Stack and business application development
+- REST APIs and third-party integrations
+- SaaS and cloud-based applications
+- CRM, sales and management systems
+- SQL databases and data integration
+- Windows and Linux server administration
+- Application deployment and web hosting
+- AI integrations and workflow automation
+- IoT, embedded devices and hardware integration
+- Testing, troubleshooting and technical problem solving
 
 ---
 
-## 🚀 What I Build
+## 🎯 Engineering Approach
 
-My projects include solutions involving:
+I enjoy working across the technology stack and understanding how the pieces connect — **from hardware and operating systems to databases, APIs and user-facing applications**.
 
-- SaaS platforms
-- CRM and sales systems
-- Business management applications
-- Event management
-- Mentoring and education platforms
-- Dashboards and reporting
-- Workflow automation
-- AI-powered solutions
-- APIs and third-party integrations
-- IoT and hardware integrations
-
-> 🔒 Many of my production and professional projects are maintained in private repositories due to business and confidentiality requirements.
+My focus is on building practical solutions, solving technical problems and continuously improving systems through software engineering, infrastructure and automation.
 
 ---
 
-## 🧰 Main Technology Stack
+## 📚 Currently Exploring
 
-`C#` · `.NET` · `VB.NET` · `React` · `TypeScript` · `JavaScript`  
-`SQL Server` · `PostgreSQL` · `Supabase` · `REST APIs`  
-`Windows Server` · `Linux` · `IIS` · `Docker` · `Git`  
-`Raspberry Pi` · `ESP32` · `IoT` · `AI` · `Automation`
+Modern software architecture, AI-assisted applications, automation, cloud services and new approaches to connecting software with real-world business processes.
 
 ---
 
-## 📚 Always Learning
+## 📫 Connect
 
-Technology has always been a field of continuous learning for me.
-
-I enjoy solving complex technical problems, understanding how systems work from hardware to software, building practical solutions and exploring new technologies that can improve real-world processes.
-
----
-
-### 📫 Connect with me
-
+**Edmi Carvalho**  
 GitHub: **@edmicarvalho**
